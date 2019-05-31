@@ -1,1 +1,1 @@
-{"base": "e6a3520", "parent": "debian/dashing/realsense_ros2_camera", "previous": "b65b64a", "trim": "", "trimbase": ""}
+{"trim": "", "base": "fbff1a7", "trimbase": "", "parent": "debian/dashing/realsense_ros2_camera", "previous": "1539bfe"}
